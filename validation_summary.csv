@@ -1,0 +1,9 @@
+rule_id,flagged_records,severity,description
+V001,0,error,PatientID must be present for source-level duplicate checking.
+V002,0,error,Duplicate source patient identifiers; review and resolve before analysis. No rows are auto-deleted.
+V003,0,review,Age must be numeric and within broad technical screening bounds 0–120; not a clinical judgement.
+V004,0,review,Dosage must be numeric and greater than zero; medication-specific appropriateness is not assessed.
+V005,0,review,Treatment duration must be numeric and greater than zero.
+V006,0,review,Readmitted must be Yes or No; unknown values are not inferred.
+V007,0,review,BloodPressure must match numeric systolic/diastolic text format; this does not assess clinical normality.
+V008,0,review,CholesterolLevel must be numeric and non-negative. Unit and measurement context are not supplied.

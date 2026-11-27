@@ -1,0 +1,11 @@
+RecordID,AgeBand,Gender,Diagnosis,PrimaryMedication,DosageMg,TreatmentDurationDays,Readmitted,BloodPressure,CholesterolLevel
+REC-001,40-49,Male,Hypertension,Amlodipine,10.0,90,No,138/88,210
+REC-002,50-59,Female,Type 2 Diabetes,Metformin,500.0,180,No,128/80,195
+REC-003,60-69,Male,Heart Disease,Atorvastatin,40.0,120,Yes,145/92,245
+REC-004,30-39,Female,Asthma,Albuterol,2.0,30,No,118/75,180
+REC-005,70+,Female,Osteoarthritis,Ibuprofen,400.0,60,Yes,132/84,205
+REC-006,50-59,Male,Type 2 Diabetes,Metformin,850.0,90,No,125/82,215
+REC-007,60-69,Female,Hypertension,Lisinopril,20.0,150,No,135/86,220
+REC-008,18-29,Male,Allergic Rhinitis,Cetirizine,10.0,14,No,115/72,175
+REC-009,70+,Male,Heart Disease,Clopidogrel,75.0,365,Yes,150/95,260
+REC-010,40-49,Female,Hypothyroidism,Levothyroxine,0.05,180,No,122/78,190

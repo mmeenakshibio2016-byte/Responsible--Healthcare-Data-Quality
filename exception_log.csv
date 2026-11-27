@@ -1,0 +1,2 @@
+RecordID,SourceRowNumber,RuleIDs,Action
+,,NONE,No validation exceptions detected by the configured rules; all records retained.
